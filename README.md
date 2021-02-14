@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Awesome-Areej
-- 👀 I’m interested in coding with Python.
-- 🌱 I’m currently learning HTML, CSS and JavaScript.
+- 👀 I’m interested in coding with Python, CSS, HTML and JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: my dad email: dridi.raouf@gmail.com
 
