@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Awesome-Areej
-- 👀 I’m interested in coding with Python, CSS, HTML and JavaScript.
-- 🌱 I’m currently learning JavaScript. 
-- 📫 How to reach me: my dad email: dridi.raouf@gmail.com
+- 👀 I code in  Python, CSS, HTML, Java, and JavaScript.
+- 🌱 I’m currently learning Rust. 
+- 📫 How to reach me: my dad's email: dridi.raouf@gmail.com
 
 <!---
 Awesome-Areej/Awesome-Areej is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
